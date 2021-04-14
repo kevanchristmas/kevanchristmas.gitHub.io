@@ -1,2 +1,5 @@
-# kevanchristmas.github.io
-Web
+# WIP
+
+Zettelkasten/Memex
+
+Living/Earning/Growing

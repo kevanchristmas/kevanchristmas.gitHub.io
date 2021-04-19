@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coming Soon…
+tags: thesystem
 ---
 
 This will be the home of the public facing part of my memex/zettelkasten

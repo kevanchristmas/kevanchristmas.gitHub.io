@@ -2,7 +2,7 @@
 title:               kevanchristmas.io
 tagline:             'A memex/zettelkasten'
 description:         'What it says in the first post'
-url:                 http://kevanchristmas.GitHub.io
+url:                 https://kevanchristmas.GitHub.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty

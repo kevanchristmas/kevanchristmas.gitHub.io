@@ -10,4 +10,9 @@ It's being built using jekyll and GitHub pages.
 
 The underlying structure is Living/Earning/Growing.
 
+<small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>
 

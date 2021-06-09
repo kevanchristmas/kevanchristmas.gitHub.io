@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coming Soon…
-tags: thesystem, Live
+tags: thesystem Live
 ---
 
 This will be the home of the public facing part of my memex/zettelkasten

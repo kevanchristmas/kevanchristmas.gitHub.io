@@ -4,11 +4,6 @@ title: Coming Soon…
 tags: thesystem Live
 ---
 
-This will be the home of the public facing part of my memex/zettelkasten
+This will be the home of the public facing part of my zettelkasten plus some other odds and ends.
 
 It's being built using jekyll and GitHub pages.
-
-The underlying structure is Living/Earning/Growing.
-
-
-

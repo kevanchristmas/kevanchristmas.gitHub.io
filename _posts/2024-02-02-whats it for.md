@@ -6,12 +6,12 @@ tags: thesystem Live
 
 ## tl;dr
 
-Introduce myself beyond LinkedIn
-Sharing
-Documenting
-Writing
-Learning
-Find potential collaborators
+Introduce myself beyond LinkedIn  
+Sharing  
+Documenting  
+Writing  
+Learning  
+Find potential collaborators  
 
 ### Re-cap
 

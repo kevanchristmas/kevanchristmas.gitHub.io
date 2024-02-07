@@ -6,6 +6,8 @@ tags: thesystem Live
 
 ## tl;dr
 
+DRAFT
+
 Introduce myself beyond LinkedIn  
 Sharing  
 Documenting  

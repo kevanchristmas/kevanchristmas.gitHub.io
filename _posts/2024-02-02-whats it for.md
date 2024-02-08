@@ -8,11 +8,13 @@ tags: thesystem Live
 
 DRAFT
 
+This site aims to do a few things:
+
 Introduce myself beyond LinkedIn  
-Sharing  
-Documenting  
-Writing  
-Learning  
+Share some knowledge  
+Document my progress and thinking (*for me and others*)  
+Help my Writing (*and my thinking*) improve  
+Help me with Learning  
 Find potential collaborators  
 
 ### Re-cap

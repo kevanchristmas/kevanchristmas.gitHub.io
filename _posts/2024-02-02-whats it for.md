@@ -46,7 +46,7 @@ I'm not anti LinkedIn and happy to be there - I'm just trying to add some 'what 
 
 Increased sharing is a massive positive feature of the technology driving the Information revolution. Bearing in mind the Re-cap : vision above, I do share resources, interesting articles and things I figure out with friends, colleagues and family. I can centralise that here. Some of it might help as well as entertain.
 
-For the last four years I have also built/maintained a digital [zettelkasten](https://zettelkasten.de/introduction/) or second brain using [Obsidian](https://obsidian.md/) for my professional and personal life. (There will be more on this). In 2024 I am refining that into an improved version and it is more suited to sharing some categories of notes here.
+For the last four years I have also built/maintained a digital [zettelkasten](https://zettelkasten.de/introduction/) or second brain using [Obsidian](https://obsidian.md/) for my professional and personal life (currenly over 4000 notes). (There will be more on this). In 2024 I am refining that into an improved version and it is more suited to sharing some categories of notes here.
 
 ## 3. Documenting
 

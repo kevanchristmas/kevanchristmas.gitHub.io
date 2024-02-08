@@ -24,12 +24,12 @@ Such as:
 
 - It's easy to find things interesting and valuable but much harder to think of and say something interesting or valuable.
 - Don't just share what you think makes you interesting and/or unique.
-- You probably can't do better than adhere to the spirit of the Howard Thurman quote 
+- You probably can't do better than adhere to the spirit of the Howard Thurman quote:
 
 > “Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.” 
 
 - Show your working **only** if it helps understand how you arrived at or are getting to your answer.
-- Remember you stand on the shoulders of giants, credit otherts and assume Epistemic humility.
+- Remember you stand on the shoulders of giants, credit others and assume epistemic humility.
 - _(If you're not a genius then having to make up or re-purpose words for what you're attempting, probably isn't a good sign_ ಠಿ_ಠ)
 
 ## 1. Introducing myself beyond LinkedIn
@@ -38,7 +38,7 @@ I don't use actively any other social networks such as facebook, X, instagram et
 
 I think of LinkedIn as architectural in the sense that it's circa 900 Million Storefronts with a finite number of facade patterns. Nothing wrong in that - it's why everyone is there - competing for attention from bots and browsers. The marketplace of ideals. 
 
-After window shopping we can browse to see testimonials, credentials, recommendations, featured offers and detailed catalogues. If it was a restaurant we can see everything — except (in most cases) — into the stores, back-office and kitchen. 
+After window shopping we browse to see testimonials, credentials, recommendations, featured offers and detailed catalogues. If it was a restaurant we can see everything — except (in most cases) — into the stores, back-office and kitchen. 
 
 I'm not anti LinkedIn and happy to be there - I'm just trying to add some 'what you see is what you get'.
 
@@ -46,19 +46,19 @@ I'm not anti LinkedIn and happy to be there - I'm just trying to add some 'what 
 
 Increased sharing is a massive positive feature of the technology driving the Information revolution. Bearing in mind the Re-cap : vision above, I do share resources, interesting articles and things I figure out with friends, colleagues and family. I can centralise that here. Some of it might help as well as entertain.
 
-For the last four years I have also built/maintained a digital [zettelkasten](https://zettelkasten.de/introduction/) or second brain using [Obsidian](https://obsidian.md/) for my professional and personal life. (There will be more on this). In 2024 I am refining that into an improved version based and it is more suited to sharing some categories of notes here.
+For the last four years I have also built/maintained a digital [zettelkasten](https://zettelkasten.de/introduction/) or second brain using [Obsidian](https://obsidian.md/) for my professional and personal life. (There will be more on this). In 2024 I am refining that into an improved version and it is more suited to sharing some categories of notes here.
 
 ## 3. Documenting
 
-As per other years, I'm attempting some things this year as part of my Growth and Development - this is a place for me to document as well as maybe help anyone else undertaking similar challenges.
+As per other years, I'm attempting some things this year as part of my Growth and Development - this is a place for me to document as well as maybe help anyone else thinking of, or undertaking similar challenges.
 
 ## 4. Writing
 
-I believe that writing helps me learn and think better. Organising and formulating my ideas as well as attempting to explain them are all incredibly useful. Finding and experimenting with 'voice' is another benefit.
+I believe that writing helps me learn and think better. Organising and formulating my ideas as well as attempting to explain them are all incredibly useful.
 
 ## 5. Learning
 
-I am constantly trying to learn new knowledge and skills - I believe it's a system not a goal. One of the great benefits of my current Obsidian vault is reviewing past notes and seeing the development over time. This should showcase and share that.
+I am constantly trying to learn new knowledge and skills - I believe it's a system not a goal. One of the great benefits of my current Obsidian vault is reviewing past notes and seeing the development over time. This can showcase and share that.
 
 ## 6. Finding potential collaborators
 

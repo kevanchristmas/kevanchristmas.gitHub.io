@@ -9,12 +9,11 @@ tags: Living TheSystem
 This site aims to do a few things:
 
 1. Introduce myself beyond LinkedIn  
-2. Share some knowledge 
+2. Share some knowledge
 3. Document my progress and thinking (*for me and others*)
 4. Help my Writing (*and my thinking*) improve  
 5. Help me with Learning  
-6. Find potential collaborators 
-
+6. Find potential collaborators
 
 ### Re-cap : vision
 
@@ -26,7 +25,7 @@ Such as:
 - Don't just share what you think makes you interesting and/or unique.
 - You probably can't do better than adhere to the spirit of the Howard Thurman quote:
 
-> “Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.” 
+> “Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive.”
 
 - Show your working **only** if it helps understand how you arrived at or are getting to your answer.
 - Remember you stand on the shoulders of giants, credit others and assume epistemic humility.
@@ -36,9 +35,9 @@ Such as:
 
 I don't use actively any other social networks such as facebook, X, instagram etc. and for professional reasons am discoverable on LinkedIn.
 
-I think of LinkedIn as architectural in the sense that it's circa 900 Million Storefronts with a finite number of facade patterns. Nothing wrong in that - it's why everyone is there - competing for attention from bots and browsers. The marketplace of ideals. 
+I think of LinkedIn as architectural in the sense that it's circa 900 Million Storefronts with a finite number of facade patterns. Nothing wrong in that - it's why everyone is there - competing for attention from bots and browsers. The marketplace of ideals.
 
-After window shopping we browse to see testimonials, credentials, recommendations, featured offers and detailed catalogues. If it was a restaurant we can see everything — except (in most cases) — into the stores, back-office and kitchen. 
+After window shopping we browse to see testimonials, credentials, recommendations, featured offers and detailed catalogues. If it was a restaurant we can see everything — except (in most cases) — into the stores, back-office and kitchen.
 
 I'm not anti LinkedIn and happy to be there - I'm just trying to add some 'what you see is what you get'.
 

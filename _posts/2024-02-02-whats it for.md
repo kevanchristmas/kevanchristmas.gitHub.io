@@ -17,7 +17,7 @@ This site aims to do a few things:
 
 ### Re-cap : vision
 
-I have had a couple of blogs (now archived) where I shared various thoughts and things of interest from my personal and professional life. I learned a lot (as possibly did my literally dozens of visitors...)
+I have had a couple of blogs (now archived) where I shared various thoughts or things of interest from my personal and professional life. I learned a lot (as possibly did my literally dozens of visitors...)
 
 Such as:
 

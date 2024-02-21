@@ -34,7 +34,7 @@ What I got to was a sort of high level taxonomy (venn diagram) that covered ever
 
 It looked like this:
 
-![[30k view V3 goals plus areas(1).jpg]]
+![](public/assets/30k_view_V3_goals_plus_areas.jpg)
 
 However - it lacked the ability to see in detail the connections between items and perhaps to generate new and interesting ideas or comparisons.
 
@@ -51,4 +51,4 @@ Speaking of which, Vannevar Bush - visionary American engineer, inventor, scienc
 
 There's already masses of material on the internet not to mention hours of productivity/life-hack/self-improvement porn on Youtube discussing 'second-brains', note-taking, zettelkasten and lots of different personal knowledge software. For just sorting my digital material I used a file/folder structure based on the above and for notes I ended up with Obsidian (Not open source but free for personal use - I paid a one off Catalyst license (Insider) to support development) with an identical  structure. Into those I sorted the previously mentioned files, images, links, notes, books etc. Before I started improving/evolving it this year, the notes in Obsidian looked like this:
 
-![[Obsidian Dec 23(1).png]]
+![](public/assets/Obsidian_Dec_23.png)

@@ -23,7 +23,7 @@ More than five years ago I started by collecting and sorting:
 To give some idea of what that looked like:
 
 
-![](/_posts/images/Zettel_Problem_2019.jpg)
+![](https://github.com/kevanchristmas/kevanchristmas.github.io/blob/684e6970d3584987a09aae8e14d51dd314e0247b/_posts/images/Zettel_Problem_2019.jpg)
 
 I also created a framework, tech-stack and grand scheme for being able to plan and accurately time-track everything I spent time on (cue mild shivering and visions of [_the quantified self_](https://en.wikipedia.org/wiki/Quantified_self)) — but that's for another entry.
 

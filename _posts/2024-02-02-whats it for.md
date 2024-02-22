@@ -49,7 +49,7 @@ For the last four years I have also built/maintained a digital [zettelkasten](ht
 
 ## 3. Documenting
 
-As per other years, in addition to stuff I come across I'm attempting some more challenging things in the next 12 months as part of my Growth and Development (I have some goals across learning, technology, qualification etc. which might be detailed in another post) - this is a place for me to document as well as maybe help anyone else thinking of, or undertaking similar challenges.
+As per other years, in addition to stuff I come across I'm attempting some more challenging things in the next 12 months as part of my Growth and Development (I have some personal and professional goals across learning, technology, qualification etc. which might be detailed in another post) - this is a place for me to document as well as maybe help anyone else thinking of, or undertaking similar challenges.
 
 ## 4. Writing
 

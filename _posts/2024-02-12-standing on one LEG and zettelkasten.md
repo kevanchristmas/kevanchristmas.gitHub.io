@@ -55,7 +55,7 @@ Envisioned as an analog computer to supplement human memory, the memex (a combin
 
 ### 4. How?
 
-There's already masses of material on the internet not to mention hours of productivity/life-hack/self-improvement porn on Youtube discussing 'second-brains', note-taking, zettelkasten and lots of different personal knowledge software. 
+There's already masses of material on the internet not to mention hours of productivity/life-hack/self-improvement porn on Youtube discussing 'second-brains', note-taking, zettelkasten and lots of different personal knowledge software. I won't be adding to that here.
 
 For just sorting my digital material I used a file/folder structure based on the above and for notes I ended up with [Obsidian](https://obsidian.md/) with an identical structure. (Note: not open source but free for personal use. Full disclosure - I paid a one off Catalyst license (Insider) to support development). 
 
@@ -74,6 +74,6 @@ I created a new vault (Obsidian speak for folder with notes, attachments and con
 - See concepts and relationships more clearly and (hopefully) build some useful understanding
 - Select/create content for this site (there is a post on how that happens)
 
-Videbimus (_lat_. We shall see...)
+Videbimus (_lat._ We shall see...)
 
 Thanks for your time.

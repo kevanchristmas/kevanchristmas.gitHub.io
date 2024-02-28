@@ -3,7 +3,7 @@ layout: page
 title: About This
 ---
 
-It's basically a public facing selection of stuff from a digital second brain or zettelkasten. It's explained in more depth [here](https://kevanchristmas.github.io/2024/02/02/7a2-whats-it-for/)
+It's basically a public facing selection of stuff from a digital second brain or zettelkasten. It's explained in more depth [here](https://kevanchristmas.github.io/2024/02/02/whats-it-for/)
 
 Tags are at the bottom of each post.
 

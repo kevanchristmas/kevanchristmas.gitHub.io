@@ -36,7 +36,7 @@ This felt like progress since I could initially sort everything, cascade down th
 
 It looked like this:
 
-![](public/assets/30k_view_V3_goals_plus_areas.jpg)
+![](https://kevanchristmas.github.io/public/assets/30k_view_V3_goals_plus_areas.jpg)
 
 However - it lacked the ability to see in detail the connections between items and perhaps to generate new and interesting ideas or comparisons.
 
@@ -61,7 +61,7 @@ For just sorting my digital material I used a file/folder structure based on the
 
 Into those I sorted the previously mentioned files, images, links, notes, books etc. Before I started improving/evolving it this year, the notes in Obsidian looked like this:
 
-![](public/assets/Obsidian_Dec_23.png)
+![](https://kevanchristmas.github.io/public/assets/Obsidian_Dec_23.png)
 
 That's supposedly a knowledge graph (one of Obsidian's cutesy display features) which is indexed on tags and nested tags based on some of the above taxonomy. Whatever metadata, references or tags you choose to link notes, Obsidian can create a view of it - I won't elaborate as although it shows some interesting connectivity and clustering thats about it. I guess it was more a proof of concept.
 

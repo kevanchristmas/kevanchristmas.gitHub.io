@@ -14,7 +14,7 @@ There's more [here](https://the10x.com)
 Other facts about me:
 
 * I have lived and worked in Singapore, Hong Kong, India and Africa.
-* I have worked in Marketing, Advertising, Digital Communication and Loyalty.
+* As well as Banking, Payments and Fintech I have worked in Marketing, Advertising, Digital Communication and Loyalty.
 * My family live in the Western Cape of South Africa.
 * I've been online in one way or another for over 20 years.
 * I love big open spaces, nature and interesting people.

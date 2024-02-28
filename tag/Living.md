@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: TheSystem"
-tag: TheSystem
+title: "Tag: Living"
+tag: Living
 robots: noindex
 ---

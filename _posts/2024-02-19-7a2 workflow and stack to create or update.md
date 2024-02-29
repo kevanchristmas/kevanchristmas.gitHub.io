@@ -28,13 +28,13 @@ In short — I have customised/configured Obsidian and VS Code, using themes and
 
 ### 1. Simple: Maximum Control/ Minimum Effort
 
-I tend to deep-dive into solutions to explore possibilities. I wanted maximum control over content and delivery and being less scared of technical details this led me to consider static websites. Static websites are  much faster and leaner particularly thinking of the type of content. I don't need webforms, lots of design, personalisation or content management
+I tend to deep-dive into solutions to explore possibilities. I wanted maximum control over content and delivery and being less scared of technical details this led me to consider static websites. Static websites are  much faster and leaner particularly thinking of the type of content. I don't need webforms, lots of design, personalisation or content management.
 
 More importantly I like being able to go in and edit not just the content and links but also some basic stuff in jekyll (and even a python script that generates/add tags) plus of course being able to roll back via Git if it breaks. It beats thrashing the black box of your CMS with a stick because you don't have a gears level understanding of what is going on inside it and your page looks funny.
 
 Although this can get a bit 'tinkery' - I at least understand *most* of what's going on up and down the stack and once it was set up it's fairly easy to push from writing to publishing.
 
-The cool thing is that GitHub Pages automatically detects changes to my repo’s master branch and using Jekyll integration auto-builds the site and publishes it live
+The cool thing is that GitHub Pages automatically detects changes to my repo’s master branch and using Jekyll integration auto-builds the site and publishes it live.
 
 ### 2. Free and or Open Source with few local dependencies
 

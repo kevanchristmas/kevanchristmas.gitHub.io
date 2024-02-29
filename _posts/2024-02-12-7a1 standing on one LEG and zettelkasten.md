@@ -38,7 +38,7 @@ It looked like this:
 
 ![](https://kevanchristmas.github.io/public/assets/30k_view_V3_goals_plus_areas.jpg)
 
-However - it lacked the ability to see in detail the connections between items and perhaps to generate new and interesting ideas or comparisons.
+The overlap or intersection dimension was interesting but before I got too far into trying to derive some weird version of [Ikigai](https://www.sloww.co/ikigai/) from first principles I realised that it lacked the ability to see in detail any meaningful connections between items and perhaps to generate new and interesting ideas or comparisons.
 
 ### 3. Who?
 Enter stage links (_left_ in german ( ͡° ͜ʖ ͡°) ) Niklas Luhmann - German sociologist, philosopher of social science, prominent thinker in systems theory and all round prolific writer. Over 30+ years he published 70 books and almost 400 articles - there are also over 150 unfinished manuscripts left in his estate — at least one of them is a text of 1000 pages. He was famous for his extensive use of the "slip box" or _[Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten "Zettelkasten")_ note-taking method. He built up a zettelkasten (it can be seen digitised and translated via Google [here](https://www-heise-de.translate.goog/news/Missing-Link-Luhmanns-Denkmaschine-endlich-im-Netz-4364512.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp&hg=1&hgi=2&hgf=false)) of some 90,000 index cards for his research, and credited it with making his extraordinarily prolific writing possible.

@@ -153,6 +153,7 @@ It was developed as a different approach to what is known as Procedural programm
 
 Below are some of the differences between procedural and object-oriented programming: 
 (edited from https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/)
+
 |Procedural Oriented Programming|Object-Oriented Programming|
 |---|---|
 |1. In procedural programming, the program is divided into small parts called _**functions**_.|In object-oriented programming, the program is divided into small parts called _**objects**_.|

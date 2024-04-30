@@ -18,7 +18,7 @@ _Intro and Warning_:
 - A longer piece (hence, and apologies for, delay)
 - Sundry jargon and multiple diagrams ahead
 
-#### Context
+### Context
 
 _**Airbnb**_ (_Figma config23 Conference_) : "... we got rid of the classic product management function. Apple didn’t have it either..."  
 _**The internet**_ (_especially designers_): "Product management is dead!"  
@@ -42,11 +42,13 @@ As somebody who has worked (and currently) in, at and on "product" (I'll drop th
 
 Product is invoked when discussing:
 
-- A Mindset[](https://medium.com/agileinsider/what-is-the-product-mindset-af06e01adf70)
-- A Set of Capabilities valuable to a segment (https://www.gartner.com/en/information-technology/glossary/product-digital-business)
+- A Mindset ([https://medium.com/agileinsider/what-is-the-product-mindset-af06e01adf70](https://medium.com/agileinsider/what-is-the-product-mindset-af06e01adf70))
+- A Set of Capabilities valuable to a segment ([https://www.gartner.com/en/information-technology/glossary/product-digital-business](https://www.gartner.com/en/information-technology/glossary/product-digital-business))
 - An Operating Model ([https://www.svpg.com/the-product-operating-model/](https://www.svpg.com/the-product-operating-model/))
-- A type of Engineer (https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-- A Management Function (https://www.productplan.com/learn/what-is-product-management/)
+- A type of Engineer ([https://blog.pragmaticengineer.com/the-product-minded-engineer/](https://blog.pragmaticengineer.com/the-product-minded-engineer/))
+- A Management Function ([https://www.productplan.com/learn/what-is-product-management/](https://www.productplan.com/learn/what-is-product-management/))
+
+
 - Building on the LinkedIn current job titles theme we also have a range of what could be considered specialised versions of existing functions or roles:  
     - Product Manager (form of business management?)
     - Product Owner (form of scrum member)

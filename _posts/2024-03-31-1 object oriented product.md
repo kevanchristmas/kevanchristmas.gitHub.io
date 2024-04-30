@@ -1,10 +1,10 @@
 ---
 layout: post
-title: OOP : Object Oriented Product
+title: Object Oriented Product
 tags: Earning Growing Product
 ---
 
-## tl:dr 
+## tl:dr
 
 1. **"Product" is a confused and contested term which causes problems** - It's fine to say there's no one right way to build great products and leave debates about form vs function to the internet but "Product" is, via definition and application, in danger of meaning so many things that it might mean nothing at all thus being either confusing or worse still impossible for companies trying to make great products and/or work at speed and scale.
 
@@ -107,7 +107,9 @@ So, Product Manager == Product Owner?
 
 Well, no. As the Ken Norton article/ Google experience from 2006 suggest, teams with Product Owners didn't always build winning products or at least could satisfy their roles where value was predominantly the delivery of working software. In general and for reference, Pendo's 2019 report based on an aggregation of anonymized product usage data (https://www.pendo.io/resources/the-2019-feature-adoption-report/) suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
 
-Product Management was still seen as the balancing act between building stuff right and building the right stuff. Of course we can show the roles and relationship in yet another diagram with circles: https://www.mojotech.com/blog/building-the-right-product-vs-building-the-product-right/
+Product Management was still seen as the balancing act between building stuff right and building the right stuff. Of course we can show the roles and relationship in yet another diagram with circles: 
+
+![](https://kevanchristmas.github.io/public/assets/Mojo_right_right.jpg)
 
 This helps but still doesn't address the 'fuzziness' around the specific function of product nor how to approach delivery.
 

@@ -15,7 +15,7 @@ tags: Earning Growing Product
 4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects (built on 'Product' as a series of classes) that encapsulate both data and the operations that manipulate them. As with software engineering, this shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
 
 _Intro and Warning_: 
-- A longer piece (hence, and apologies for, delay)
+- A longer piece that's been kicking around for a while (hence, and apologies for, delay)
 - Sundry jargon and multiple diagrams ahead
 
 ### Context
@@ -109,7 +109,7 @@ In Scrum, the notion of "ownership" stems from the role's obligation to be solel
 
 So, Product Manager == Product Owner?
 
-Well, no. As the Ken Norton article/ Google experience from 2006 suggest, teams with Product Owners didn't always build winning products or at least could satisfy their roles where value was predominantly the delivery of working software. In general and for reference, Pendo's 2019 report based on an aggregation of anonymized product usage data (https://www.pendo.io/resources/the-2019-feature-adoption-report/) suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
+Well, no. As the Ken Norton article/ Google experience from 2006 suggest, teams with Product Owners didn't always build winning products or at least could satisfy their roles where value was predominantly the delivery of working software. In general and for reference, Pendo's 2019 report based on an aggregation of anonymized product usage data [](https://www.pendo.io/resources/the-2019-feature-adoption-report/) suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
 
 Product Management was still seen as the balancing act between building stuff right and building the right stuff. Of course we can show the roles and relationship in yet another diagram with circles: 
 
@@ -121,11 +121,13 @@ Product could clearly be represented as an open system with an output (Customer 
 
 Putting it together as a system of interconnected 'black boxes' such as Engineering, Business or even a level down toward a more gears-like (deterministically interconnected) understanding comprising Architecture, Research, Analytics etc. gets us so far but of course specifying excactly how these drive each other and which 'black box' they sit in, is where the complexity above begins necessitating a loose enough description or concept of Product that we could easily find ourselves at the beginning of this piece.
 
-For (my own) reference I work with:
+For (my own) reference and in increasing resolution (verbosity?) I work with:
 
 > Product is a system of geared concepts oriented to delivering maximum value exchange between a company and it's customer.
 
-> A series of guided (by principles/approach) trade-offs (intersections) executed (by a system comprised of processes and functions) to optimise the value exchange between a company and its actual or desired target (creating and keeping) customers.
+> Geared concepts delivering a series of guided trade-offs executed to optimise the value exchange between a company and its actual or desired target customers.
+
+> A series of _guided_ (by principles/approach) _trade-offs_ (intersections) _executed_ (by a system comprised of processes and functions) to optimise the value exchange between a company and its actual or desired _target_ (creating and keeping) customers.
 
 This contains some but not all of the (imho) important enough ideas.
 

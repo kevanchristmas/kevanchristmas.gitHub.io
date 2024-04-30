@@ -4,9 +4,15 @@ title: OOP : Object Oriented Product
 tags: Earning Growing Product
 ---
 
+## tl:dr 
 
+1. **"Product" is a confused and contested term which causes problems** - It's fine to say there's no one right way to build great products and leave debates about form vs function to the internet but "Product" is, via definition and application, in danger of meaning so many things that it might mean nothing at all thus being either confusing or worse still impossible for companies trying to make great products and/or work at speed and scale.
 
-**A model for thinking about Product (function/management/ownership...n)?**
+2. **Here's why and how we got here** - A young (<20 years) discipline with one foot in the Agile Development Framework, one foot in the customer obsession needed for winning products and a head in the clouds of the companies that do both at speed and scale (M(F)AANG etc.)
+
+3. **Here's a different way to think about it** - A surprisingly useful way of thinking about Product is as an entire software application or system, made up of multiple modules or packages - designed using OOP principles.  To deliver winning products make the objects model the real world problem space, think methods rather than functions and perhaps most importantly notice when switching from one building pattern to another.
+
+4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects (built on 'Product' as a series of classes) that encapsulate both data and the operations that manipulate them. As with software engineering, this shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
 
 _Intro and Warning_: 
 - A longer piece (hence, and apologies for, delay)
@@ -23,16 +29,6 @@ _**250k + Product Owners\***_: "Wait, what?"
 
 **Airbnb** (_some time later_): "… well actually we kept the people, offloaded the programme management, combined it with marketing and called them something different… now they're Product Marketers"  
 **The internet**: Wait, what?"
-
-## tl:dr 
-
-1. **"Product" is a confused and contested term which causes problems** - It's fine to say there's no one right way to build great products and leave debates about form vs function to the internet but "Product" is, via definition and application, in danger of meaning so many things that it might mean nothing at all thus being either confusing or worse still impossible for companies trying to make great products and/or work at speed and scale.
-
-2. **Here's why and how we got here** - A young (<20 years) discipline with one foot in the Agile Development Framework, one foot in the customer obsession needed for winning products and a head in the clouds of the companies that do both at speed and scale (M(F)AANG etc.)
-
-3. **Here's a different way to think about it** - A surprisingly useful way of thinking about Product is as an entire software application or system, made up of multiple modules or packages - designed using OOP principles.  To deliver winning products make the objects model the real world problem space, think methods rather than functions and perhaps most importantly notice when switching from one building pattern to another.
-
-4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects (built on 'Product' as a series of classes) that encapsulate both data and the operations that manipulate them. As with software engineering, this shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
 
 ## 1. Problem - what is it and how is it done?
 

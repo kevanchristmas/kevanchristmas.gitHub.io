@@ -97,7 +97,9 @@ Not surprisingly many diagrams followed, most famously Martin Eriksson, product 
 
 ![](https://kevanchristmas.github.io/public/assets/Eriksson_Product.jpg)
 
-Further versions followed - notably the Atlassian Triad Model https://www.atlassian.com/blog/technology/engineering-team-structure centering Product Management in the "Business" role which moved it away from Engineering and in some ways made sense.
+Further versions followed - notably the Atlassian Triad Model centering Product Management in the "Business" role which moved it away from Engineering and in some ways made sense.
+
+![](https://kevanchristmas.github.io/public/assets/Atlassian_triad.jpg)
 
 Made sense because, since the early 2000's the job of focusing on the business side of product development and spending the majority of their time liaising with stakeholders and the software engineering team had been elsewhere enshrined in the scrum team member called a Product Owner. (It almost certainly pre-dated 2000 as it was part of the Scrum Framework launched by Ken Schwaber and Jeff Sutherland).
 

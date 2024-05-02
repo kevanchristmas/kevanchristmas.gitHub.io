@@ -14,7 +14,8 @@ tags: Earning Growing Product
 
 4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects (built on 'Product' as a series of classes) that encapsulate both data and the operations that manipulate them. As with software engineering, this shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
 
-_Intro and Warning_: 
+_Intro and Warning_:
+
 - A longer piece that's been kicking around for a while (hence, and apologies for, delay)
 - Sundry jargon and multiple diagrams ahead
 
@@ -48,7 +49,6 @@ Product is invoked when discussing:
 - A type of Engineer ([https://blog.pragmaticengineer.com/the-product-minded-engineer/](https://blog.pragmaticengineer.com/the-product-minded-engineer/))
 - A Management Function ([https://www.productplan.com/learn/what-is-product-management/](https://www.productplan.com/learn/what-is-product-management/))
 
-
 - Building on the LinkedIn current job titles theme we also have a range of what could be considered specialised versions of existing functions or roles:  
     - Product Manager (form of business management?)
     - Product Owner (form of scrum member)
@@ -61,11 +61,11 @@ Product is invoked when discussing:
     - Product Strategy Director (form of Executive strategy?)
     - etc.
 
-So far, so confusing and so what?
+So far, so confusing and so what? Everyone is working on some aspect of Product and knows what they're supposed to do - we're all product companies now, why does it matter?
 
-It matters because, as opposed to start-ups who generally obsess over product (as outlined below in the Lean Startup) but can fail for adjacent, more interesting reasons - there are widely acknowledged challenges with introducing, transforming and executing 'Product' in large organisations. Today, many  claim to have switched to a "Product approach/mindset" yet still manage to manifest many of the habitual dysfunctions and pathologies common to their type and most importantly have no real idea why the switch hasn't delivered what was hoped for.
+It matters because, as opposed to start-ups who continually obsess over product (as outlined below in the Lean Startup) but can fail for adjacent, more interesting reasons - there are widely acknowledged challenges with introducing, transforming and executing product in legacy/scale enterprise. Today, many claim to have switched to a "Product Mindset vs Project Mindset" yet still manage to manifest many of the habitual dysfunctions and pathologies common to their type and most importantly have no real idea why the switch hasn't delivered what was hoped for.
 
-If no-one is quite sure what it means or understands exactly what product does, how do you introduce it? (especially in legacy businesses or market-fit stage organisations) - what are the necessary transformations - what needs to change? Why does executing a product driven approach not deliver great products faster?
+If no-one is quite sure what it means or understands exactly what product does, how do you introduce and **manage** it? - what are the necessary transformations - what needs to change? Why does executing a product driven approach not deliver great products faster?
 
 As is obvious, this is often a complex multi-variate problem and way beyond the scope of one essay. However it is fair to say that the challenges with a less than twenty year old discipline began at it's inception.
 
@@ -79,7 +79,7 @@ The origin of the problems (in definition and application) can probably best be 
 
 > But in a world without PMs, everyone simply fills in the gap and goes on with their lives. ... Now, in the long run great product management usually makes the difference between winning and losing, but you have to prove it. Product management also combines elements of lots of other specialties — engineering, design, marketing, sales, business development.
 
-As he points out in 2023, this should have been entitled '_What_ is a Product Manager' and was written at the same time as Google were establishing their associate product manager program. He then summarises the qualities and by so doing begins to define the specific view of the problem space that the product manager works in if not their exact role - other than to ensure winning products in the long run.
+As he points out in 2023, this should have been entitled '_**What**_ is a Product Manager' and was written at the same time as Google were establishing their associate product manager program. He then summarises the qualities and by so doing begins to define the specific view of the problem space that the product manager works in if not their exact role - other than to ensure winning products in the long run.
 
 The reason to have product managers at all in this sense, was thus to ensure winning (great) products driven by the success (and ability to deliver at scale and speed) of companies like those that the author worked at (Yahoo then Google\[Docs, Calendar, Maps and Ventures]).
 
@@ -97,6 +97,10 @@ Not surprisingly many diagrams followed, most famously Martin Eriksson, product 
 
 ![](https://kevanchristmas.github.io/public/assets/Eriksson_Product.jpg)
 
+Another view:
+
+![](https://kevanchristmas.github.io/public/assets/successful_product.jpg)
+
 Further versions followed - notably the Atlassian Triad Model centering Product Management in the "Business" role which moved it away from Engineering and in some ways made sense.
 
 ![](https://kevanchristmas.github.io/public/assets/Atlassian_triad.jpg)
@@ -109,7 +113,9 @@ In Scrum, the notion of "ownership" stems from the role's obligation to be solel
 
 So, Product Manager == Product Owner?
 
-Well, no. As the Ken Norton article/ Google experience from 2006 suggest, teams with Product Owners didn't always build winning products or at least could satisfy their roles where value was predominantly the delivery of working software. In general and for reference, Pendo's 2019 report based on an aggregation of anonymized product usage data [](https://www.pendo.io/resources/the-2019-feature-adoption-report/) suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
+Well, no. As the Ken Norton article/ Google experience from 2006 suggest, teams with Product Owners didn't always build winning products or at least could satisfy their roles where value was predominantly the delivery of working software. 
+
+In general and for reference, Pendo's 2019 report based on an aggregation of anonymized product usage data [https://www.pendo.io/resources/the-2019-feature-adoption-report/](https://www.pendo.io/resources/the-2019-feature-adoption-report/) suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
 
 Product Management was still seen as the balancing act between building stuff right and building the right stuff. Of course we can show the roles and relationship in yet another diagram with circles: 
 
@@ -121,17 +127,17 @@ Product could clearly be represented as an open system with an output (Customer 
 
 Putting it together as a system of interconnected 'black boxes' such as Engineering, Business or even a level down toward a more gears-like (deterministically interconnected) understanding comprising Architecture, Research, Analytics etc. gets us so far but of course specifying excactly how these drive each other and which 'black box' they sit in, is where the complexity above begins necessitating a loose enough description or concept of Product that we could easily find ourselves at the beginning of this piece.
 
-For (my own) reference and in increasing resolution (verbosity?) I work with:
+A systems view in increasing resolution (verbosity you say?) might be:
 
 > Product is a system of geared concepts oriented to delivering maximum value exchange between a company and it's customer.
 
 > Geared concepts delivering a series of guided trade-offs executed to optimise the value exchange between a company and its actual or desired target customers.
 
-> A series of _guided_ (by principles/approach) _trade-offs_ (intersections) _executed_ (by a system comprised of processes and functions) to optimise the value exchange between a company and its actual or desired _target_ (creating and keeping) customers.
+> A series of _guided_ (by principles/approach) _trade-offs_ (intersections) _executed_ (processes and functions) to optimise the value exchange between a company and its actual or desired _target_ (creating and keeping) customers.
 
 This contains some but not all of the (imho) important enough ideas.
 
-There is also ongoing development around the ideas of two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
+Before moving on there is also ongoing development around the ideas of there being two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
 
 Very useful in so far as Product team> Feature team> Delivery team but we seem to still be in a world of defining functions or at least functional approaches.
 
@@ -170,23 +176,58 @@ Below are some of the differences between procedural and object-oriented program
 |8. Code **reusability absent** in procedural programming,|Code **reusability present** in object-oriented programming.|
 |**Examples:** C, FORTRAN, Pascal, Basic, etc.|**Examples:** C++, Java, Python, C#, etc.|
 
-Without provoking internecine wars, it should be remembered that procedural programming is widely used and many applications are not 'object-oriented' but simply written in imperative style. 
+Without provoking internecine wars, it should be remembered that procedural programming is widely used and many applications are not 'object-oriented' but simply written in imperative style.
 
-A procedural style is best used when you have a very well specified problem, the specification won't change and you want a very fast running program for it. In this case you may trade the maintainability for performance.
+This isn't meant as a useful discussion of pro's and con's and I won't be going anywhere near key concepts like Encapsulation, Abstraction, Inheritance or Polymorphism except by implication
+but some key themes stand out already from the table (even if not a directly similar usage) and suggest this is as a worthwhile model for thinking about product.
 
-This isn't meant as a comparison of pro's and con's but some key themes do stand out (even if not a directly similar usage) and suggest this is a worthwhile model for thinking about product.
+To close the definitions, a procedural style is best used when we have
 
-Picking just four of the key ideas:
+- A very well specified problem
+- Where the specification won't change
+- And we want a very fast running program.
 
-Objects vs Functions
-Bottom up vs Top Down
-Real world vs Unreal world
-Data > Function
+In this case we may trade the maintainability for performance.
 
+Even in this statement we can begin to recognise assonance in some of the previous dissonance.
 
+How often do we feel we have laser clear focus on a problem with unchanging specifications? Is enterprise structure and scale tilted toward performance or maintainability? Defining or implementing product with a procedural design model would seem like an [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern)
 
+Picking just four of the key ideas in the table to expand thematically:
 
+1. Objects vs Functions
 
-The approach to begin solving for the challenges outlined at the start would be to understand where a procedural pattern is being applied and try to switch it.
+    This is more than just different names for the same thing. Objects contain both data (attributes) and behaviour (methods) that describe their characteristics and actions. Functions take inputs and produce outputs - they are immutable and avoid shared states.
 
-However, when it comes to delivering this in existing large companies, it is object oriented programming in a largely procedural programming world.
+    One way of thinking about is to consider the assumed non-overlap of some of the job titles mentioned in outlining the Problem. Do they really exist to do different things without changing the same data?
+2. Bottom up vs Top Down
+
+    Working with outcomes rather than outputs - each object is identified first. This means we can make decisions about reusable low-level utilities then decide how these will be put together to create a high-level construct.
+
+    One way of thinking about this is the possiblity for end to end delivery of pieces of customer value. Ideally this owned by one cross-functional team but is often impossible due to the top down construct.
+
+3. Real world vs Unreal world
+
+    Reflecting the realities of the problem space - we see the similarities between things that we label with a class. We don't see the class itself but instances of it. Most importantly we're structuring our approach based on how things are, not how they should be or we _think_ they might be.
+
+    An obvious way of thinking about this might be personas but there is an even better start point in considering exactly what the customer is trying to achieve ([Job to Be Done](https://online.hbs.edu/blog/post/3-keys-to-understanding-jobs-to-be-done)) as the real world.
+
+4. Data > Function
+
+   Providing a simplified and generalized view of data objects or structures - we hide the implementation details of the data and emphasizes the essential properties and behaviors. Objects manage their own data and expose only necessary functionalities to the outside world
+   
+   This is quite natural considering points 1 - 3 and a way of thinking about this not only ensures being data-driven but also how we use and measure the data that drives customer outcomes rather than vanity metrics or an approach such as OKRs.
+
+It seems fair to suggest that there's enough substantive similarity here to indicate an more than an over-stretched metaphor?
+
+Overall, object-oriented programming is a tool to architect code that mirrors the intricacies of the real-world systems we are analyzing, enabling us to extract valuable insights while maximizing agility.  As a final point, it's particularly useful when refactoring code written in a procedural style.
+
+In other words, start-ups, fintechs etc. are natively built this way whilst trying to adapt an existing structure actually needs this approach.
+
+A product mindset then, is not a fintech/skunkwork/innovation lab nor is it an oversupply of fusball tables, post-it notes, kanban boards and applying the 'Product' qualifier to existing functions. 
+
+These are an important nod to the principles and practice of Lean Startup, Agility and customer obsession rooted in the journey of understanding what product is and does.
+
+However we are better off looking to understand where procedural patterns have been, or are being applied and trying to switch how the underlying application works to Object Orientation.
+
+At least the job titles might make more sense.

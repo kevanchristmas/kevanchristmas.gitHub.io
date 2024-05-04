@@ -6,15 +6,15 @@ tags: Earning Growing Product
 
 ## tl:dr
 
-1. **"Product" is a confused and contested term which causes problems** - It's fine to say there's no one right way to build great products and leave debates about form vs function to the internet but "Product" is, via definition and application, in danger of meaning so many things that it might mean nothing at all thus being either confusing or worse still impossible for companies trying to make great products and/or work at speed and scale.
+1. **"Product" is a confused term - which causes problems** - it lacks coherent and consistent meaning thus being either confusing or worse still impossible for companies trying to make great products and/or work at speed and scale.
 
-2. **Here's why and how we got here** - A young (<20 years) discipline with one foot in the Agile Development Framework, one foot in the customer obsession needed for winning products and a head in the clouds of the companies that do both at speed and scale (M(F)AANG etc.)
+2. **Here's why and how we got here** - it's a young (<20 years) discipline with one foot in the Agile Development Framework, one foot in the customer obsession needed for winning products and a head in the clouds (_sic_) of the companies that do both at speed and scale (M(F)AANG etc.)
 
-3. **Here's a different way to think about it** - A surprisingly useful way of thinking about Product is as an entire software application or system, made up of multiple modules or packages - designed using OOP principles.  To deliver winning products make the objects model the real world problem space, think methods rather than functions and perhaps most importantly notice when switching from one building pattern to another.
+3. **Here's a different way to think about it** - it's surprisingly useful to think about it using the principles of an approach to software engineeirng called Object Oriented Programming (OOP).  
 
-4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects (built on 'Product' as a series of classes) that encapsulate both data and the operations that manipulate them. As with software engineering, this shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
+4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects that encapsulate both data and the operations that manipulate them. This shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
 
-_Intro and Warning_:
+**_Intro and Warning_:**
 
 - A longer piece that's been kicking around for a while (hence, and apologies for, delay)
 - Sundry jargon and multiple diagrams ahead
@@ -33,13 +33,13 @@ _**250k + Product Owners\***_: "Wait, what?"
 
 ## 1. Problem - what is it and how is it done?
 
-As suggested in the opening exchange, there is often a lot of confusion, tension and general fuzziness in discussions about product, product management and ownership, all the more surprising given the fact that well over 1m professionals on LinkedIn use it in their description of what they do.
+As suggested in the opening exchange, there can be a lot of confusion, tension and general fuzziness in discussions about product, product management and ownership - all the more surprising given the fact that well over 1m professionals on LinkedIn use it in their description of what they do.
 
-The challenge is that when a word or concept is stretched to mean almost everything, it risks meaning nothing at all. As an excuse to include a favourite Aldous Huxley quote:
+One challenge is that when a word or concept is stretched to mean almost everything, it risks meaning nothing at all. As an excuse to include a favourite Aldous Huxley quote:
 
 > "Words can be like X-rays if you use them properly -- they’ll go through anything... However, when words are overused or misused, they can become just background noise,..."
 
-As somebody who has worked (and currently) in, at and on "product" (I'll drop the quotation marks as the point is made) for more than a decade, what follows is a brief overview and review as I see it.
+As somebody who has worked (inc. currently) in, at and on "product" (I'll drop the quotation marks as the point is made) for more than a decade, what follows is a brief overview and review as I see it.
 
 Product is invoked when discussing:
 
@@ -61,9 +61,9 @@ Product is invoked when discussing:
     - Product Strategy Director (form of Executive strategy?)
     - etc.
 
-So far, so confusing and so what? Everyone is working on some aspect of Product and knows what they're supposed to do - we're all product companies now, why does it matter?
+So far, so confusing and so what? Everyone is working on some aspect of product and knows what they're supposed to do - we're all product companies now, why does it matter?
 
-It matters because, as opposed to start-ups who continually obsess over product (as outlined below in the Lean Startup) but can fail for adjacent, more interesting reasons - there are widely acknowledged challenges with introducing, transforming and executing product in legacy/scale enterprise. Today, many claim to have switched to a "Product Mindset vs Project Mindset" yet still manage to manifest many of the habitual dysfunctions and pathologies common to their type and most importantly have no real idea why the switch hasn't delivered what was hoped for.
+It matters because, as opposed to start-ups who continually obsess over product (outlined below in the Lean Startup) but can fail for adjacent, more interesting reasons - there are widely acknowledged challenges with introducing, transforming and executing product in legacy/scale enterprise. Today, many claim to have switched to a "Product Mindset vs Project Mindset" yet still manage to manifest many of the habitual dysfunctions and pathologies common to their type and most importantly have no real idea why the switch hasn't delivered what was hoped for.
 
 If no-one is quite sure what it means or understands exactly what product does, how do you introduce and **manage** it? - what are the necessary transformations - what needs to change? Why does executing a product driven approach not deliver great products faster?
 
@@ -71,7 +71,7 @@ As is obvious, this is often a complex multi-variate problem and way beyond the 
 
 ## 2. Causes
 
-The origin of the problems (in definition and application) can probably best be located 18 years ago (as of 2024) with Ken Norton in his essay "[How to hire a product manager](https://www.bringthedonuts.com/essays/productmanager.html)":
+The origin can best be located 18 years ago (as of 2024) with Ken Norton in his essay "[How to hire a product manager](https://www.bringthedonuts.com/essays/productmanager.html)":
 
 > **Remember friend, nobody asked you to show up**
 
@@ -81,13 +81,13 @@ The origin of the problems (in definition and application) can probably best be 
 
 As he points out in 2023, this should have been entitled '_**What**_ is a Product Manager' and was written at the same time as Google were establishing their associate product manager program. He then summarises the qualities and by so doing begins to define the specific view of the problem space that the product manager works in if not their exact role - other than to ensure winning products in the long run.
 
-The reason to have product managers at all in this sense, was thus to ensure winning (great) products driven by the success (and ability to deliver at scale and speed) of companies like those that the author worked at (Yahoo then Google\[Docs, Calendar, Maps and Ventures]).
+The reason to have product managers at all in this sense, was thus to ensure winning (great) products driven by the success (and ability to deliver at scale and speed) of those from companies similar to ones the author worked at (Yahoo then Google\[Docs, Calendar, Maps and Ventures]).
 
-The issue of whether 'product' is a discrete thing was then elegantly side-stepped in the Lean Startup (Eric Ries - 2011) by articulating a set of five principles for entrepreneurs to create a successful startup (which means you have a winning product - albeit not at scale) basically by beginning with customers (interviews, research, discovery), building an MVP (Minimum Viable Product) then testing and iterating quickly.
+The issue of whether product is a discrete thing was then elegantly side-stepped in the [Lean Startup](https://theleanstartup.com/) (Eric Ries - 2011) by articulating a set of five principles for entrepreneurs to create a successful startup (which means you have a winning product - albeit not at scale) basically by beginning with customers (interviews, research, discovery), building an MVP (Minimum Viable Product) then testing and iterating quickly.
 
 The 'build, measure, (validate) learn' loop located product squarely in the language/domain of software development reflecting the established agile approach of sprints and increments of value for building software - see below for Agile. (NB this is I think resolved in the conclusion)
 
-The drive to instantiate this way of working in non-startups (Scale-ups and Established Enterprise) continued.  Marty Cagan's book "INSPIRED: How to Create Tech Products Customers Love" (2018) has as it's opening sales pitch:
+The drive to instantiate this way of working in non-startups (Scale-ups and Established Enterprise) continued.  Marty Cagan's book "[INSPIRED: How to Create Tech Products Customers Love](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/)" (2018) has as it's opening sales pitch:
 
 > "How do today’s most successful tech companies—Amazon, Google, Facebook, Netflix, Tesla—define, design and develop the products that have earned the love of literally billions of people around the world? Perhaps surprisingly, they do it very differently than the vast majority of tech companies."
 
@@ -115,9 +115,11 @@ So, Product Manager == Product Owner?
 
 Well, no. As the Ken Norton article/ Google experience from 2006 suggest, teams with Product Owners didn't always build winning products or at least could satisfy their roles where value was predominantly the delivery of working software. 
 
-In general and for reference, Pendo's 2019 report based on an aggregation of anonymized product usage data [https://www.pendo.io/resources/the-2019-feature-adoption-report/](https://www.pendo.io/resources/the-2019-feature-adoption-report/) suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
+In general and for reference, Pendo's 2019 [report](https://www.pendo.io/resources/the-2019-feature-adoption-report/) based on an aggregation of anonymized product usage data suggested that "80 percent of features in the average software product are rarely or never used" - further, "publicly-traded cloud software companies collectively invested up to $29.5 billion developing these features, dollars that could have been spent on higher value features and unrealized customer value". 
 
-Product Management was still seen as the balancing act between building stuff right and building the right stuff. Of course we can show the roles and relationship in yet another diagram with circles: 
+Product Management was still seen as the balancing act between building stuff right and building the right stuff. 
+
+Of course we can show the roles and relationship in yet another diagram:
 
 ![](https://kevanchristmas.github.io/public/assets/Mojo_right_right.jpg)
 
@@ -133,15 +135,15 @@ A systems view in increasing resolution (verbosity you say?) might be:
 
 > Geared concepts delivering a series of guided trade-offs executed to optimise the value exchange between a company and its actual or desired target customers.
 
-> A series of _guided_ (by principles/approach) _trade-offs_ (intersections) _executed_ (processes and functions) to optimise the value exchange between a company and its actual or desired _target_ (creating and keeping) customers.
+> _Guided_ (by principles/approach) _trade-offs_ (intersections) _executed_ (processes and functions) to optimise the value exchange between a company and its actual or desired _target_ (creating and keeping) _customers_.
 
-This contains some but not all of the (imho) important enough ideas.
+This contains many but not all of the (imho) important enough concepts. It can however also lead to discussions about wha constitutes value, what and how the trade-offs are plus how they are prioritised.
 
-Before moving on there is also ongoing development around the ideas of there being two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
+Before moving on it is worth mentioning that is an interesting development abouit there being two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
 
-Very useful in so far as Product team> Feature team> Delivery team but we seem to still be in a world of defining functions or at least functional approaches.
+Very useful in so far as Product team > Feature team > Delivery team but we seem to still be in a world of defining functions or at least functional approaches.
 
-The dilemma is well addressed in Melissa Perri's book "Escape the Build Trap":
+The dilemma is well addressed in Melissa Perri's book "[Escape the Build Trap](https://melissaperri.com/book)":
 
 > "To stay competitive in today's market, organizations need to adopt a culture of customer-centric practices that focus on outcomes rather than outputs. Companies that live and die by outputs often fall into the "build trap," cranking out features to meet their schedule rather than the customer's needs."
 
@@ -149,9 +151,11 @@ Customer-centricity and outcome focus seems to be moving us back in the directio
 
 With a slight shift in thinking this could represent the penultimate stage to what might be the best way of representing Product.
 
-Here, a model from a different discipline (perhaps not that different - we may just be adding to the Agile foundations borrowed from Software Development...) could be surprisingly useful.
+Perri's follow up book [Product Operations](https://melissaperri.com/book) not only builds on this but with it's focus on aligning daily operations with the broader product strategy, delineating the specific roles and responsibilities within product teams, feedback loops, data-driven decisions and scaleability echoes this essay.
 
-## A different way to think about it
+The shift in thinking uses a model from a different discipline (perhaps not that different - we may just be adding to the Agile foundations borrowed from Software Development...) and can be surprisingly insightful.
+
+## 3. A different way to think about it
 
 _(caveat - I wish to extend apologies in advance to CS graduates, IT professionals and fellow [Hyperskill](https://hyperskill.org/tracks/2) alumni where I first encountered the following..)_
 
@@ -191,6 +195,8 @@ In this case we may trade the maintainability for performance.
 
 Even in this statement we can begin to recognise assonance in some of the previous dissonance.
 
+## 4. Why this helps
+
 How often do we feel we have laser clear focus on a problem with unchanging specifications? Is enterprise structure and scale tilted toward performance or maintainability? Defining or implementing product with a procedural design model would seem like an [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern)
 
 Picking just four of the key ideas in the table to expand thematically:
@@ -218,16 +224,18 @@ Picking just four of the key ideas in the table to expand thematically:
    
    This is quite natural considering points 1 - 3 and a way of thinking about this not only ensures being data-driven but also how we use and measure the data that drives customer outcomes rather than vanity metrics or an approach such as OKRs.
 
-It seems fair to suggest that there's enough substantive similarity here to indicate an more than an over-stretched metaphor?
+It seems fair to suggest that there's enough substantive similarity here to indicate more than an over-stretched metaphor?
 
-Overall, object-oriented programming is a tool to architect code that mirrors the intricacies of the real-world systems we are analyzing, enabling us to extract valuable insights while maximizing agility.  As a final point, it's particularly useful when refactoring code written in a procedural style.
+Overall, object-oriented programming is a tool to architect code that mirrors the intricacies of the real-world systems we are analyzing, enabling us to extract valuable insights while maximizing agility.  As a final point, it's particularly useful when [refactoring](https://www.agilealliance.org/glossary/refactoring/) code written in a procedural style.
 
-In other words, start-ups, fintechs etc. are natively built this way whilst trying to adapt an existing structure actually needs this approach.
+In other words, start-ups, fintechs etc. are moslty natively built this way whilst trying to adapt any existing structure needs this approach.
 
-A product mindset then, is not a fintech/skunkwork/innovation lab nor is it an oversupply of fusball tables, post-it notes, kanban boards and applying the 'Product' qualifier to existing functions. 
+A product mindset then, is not a fintech/skunkwork/innovation lab nor is it an oversupply of foosball tables, post-it notes, kanban boards and applying the 'Product' qualifier to existing functions or roles.
 
-These are an important nod to the principles and practice of Lean Startup, Agility and customer obsession rooted in the journey of understanding what product is and does.
+These are an important nod to the principles and practice of Lean Startup, Agile delivery and customer obsession.
 
-However we are better off looking to understand where procedural patterns have been, or are being applied and trying to switch how the underlying application works to Object Orientation.
+However we could be better off looking to understand where procedural patterns have been, or are being applied and trying to switch how the application (or system) works to Object Orientation. 
 
-At least the job titles might make more sense.
+So, to deliver winning products model the real world problem space, think objects, methods and data rather than functions - most importantly notice when switching from one building pattern to another.
+
+At least then the job titles might make more sense.

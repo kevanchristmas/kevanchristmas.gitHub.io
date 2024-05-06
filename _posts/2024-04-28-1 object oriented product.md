@@ -137,7 +137,9 @@ A systems view in increasing resolution (verbosity you say?) might be:
 
 > _Guided_ (by principles/approach) _trade-offs_ (intersections) _executed_ (processes and functions) to optimise the value exchange between a company and its actual or desired _target_ (creating and keeping) _customers_.
 
-This contains many but not all of the (imho) important enough concepts. It can however also lead to discussions about wha constitutes value, what and how the trade-offs are plus how they are prioritised.
+_(The irony is not lost on me that we can create a similar vague usage/challenge-response for what 'value' means but one rabbit hole at a time...)_
+
+This vierw contains many but not all of the (imho) important enough concepts. It can however also lead to discussions about wha constitutes value, what and how the trade-offs are plus how they are prioritised.
 
 Before moving on it is worth mentioning that is an interesting development abouit there being two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
 
@@ -226,16 +228,22 @@ Picking just four of the key ideas in the table to expand thematically:
 
 It seems fair to suggest that there's enough substantive similarity here to indicate more than an over-stretched metaphor?
 
-Overall, object-oriented programming is a tool to architect code that mirrors the intricacies of the real-world systems we are analyzing, enabling us to extract valuable insights while maximizing agility.  As a final point, it's particularly useful when [refactoring](https://www.agilealliance.org/glossary/refactoring/) code written in a procedural style.
+Overall, object-oriented programming is a tool to architect code that mirrors the intricacies of the real-world, enabling us to create valuable applications while maximizing agility.  As a final point, it's particularly useful when [refactoring](https://www.agilealliance.org/glossary/refactoring/) code written in a procedural style.
 
-In other words, start-ups, fintechs etc. are moslty natively built this way whilst trying to adapt any existing structure needs this approach.
+In other words, start-ups, fintechs etc. are often natively built this way whilst trying to adapt an existing structure calls for some version of this approach.
 
-A product mindset then, is not a fintech/skunkwork/innovation lab nor is it an oversupply of foosball tables, post-it notes, kanban boards and applying the 'Product' qualifier to existing functions or roles.
+A product mindset then, is not a fintech/skunkwork/innovation lab nor is it an oversupply of foosball tables, post-it notes, kanban boards and applying the 'Product' qualifier to existing functions or roles albeit that these are an important nod to the principles and practice of Lean Startup, Agile delivery and customer obsession.
 
-These are an important nod to the principles and practice of Lean Startup, Agile delivery and customer obsession.
+However we would be better off looking to understand where procedural patterns have been, or are being, applied and trying to switch how the application (or system) works to Object Orientation.
 
-However we could be better off looking to understand where procedural patterns have been, or are being applied and trying to switch how the application (or system) works to Object Orientation. 
+So, to deliver winning products - create better customer outcomes by 
 
-So, to deliver winning products model the real world problem space, think objects, methods and data rather than functions - most importantly notice when switching from one building pattern to another.
+- modelling the real world problem space, 
 
-At least then the job titles might make more sense.
+- thinking objects, methods and data rather than functions 
+
+- structure, execute and measure accordingly 
+
+Most importantly notice switches from one building pattern to the other.
+
+At least then some of the job titles might make more sense.

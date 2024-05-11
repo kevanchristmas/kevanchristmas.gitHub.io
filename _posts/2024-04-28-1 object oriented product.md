@@ -10,9 +10,9 @@ tags: Earning Growing Product
 
 2. **Here's why and how we got here** - it's a young (<20 years) discipline with one foot in the Agile Development Framework, one foot in the customer obsession needed for winning products and a head in the clouds (_sic_) of the companies that do both at speed and scale (M(F)AANG etc.)
 
-3. **Here's a different way to think about it** - it's surprisingly useful to think about it using the principles of an approach to software engineeirng called Object Oriented Programming (OOP).  
+3. **Here's a different way to think about it** - it's surprisingly useful to think about it using the principles of an approach to software engineering called Object Oriented Programming (OOP).  
 
-4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibilty needed for great products as an emergent property of concepts like objects that encapsulate both data and the operations that manipulate them. This shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
+4. **Why this might help** - A lot of the confusion and implementation challenges resolve if we think of the ability to respond to changing requirements, agility and flexibility needed for great products as an emergent property of concepts like objects that encapsulate both data and the operations that manipulate them. This shift allows us to go beyond traditional functional approaches, also promoting modular design and reusability.
 
 **_Intro and Warning_:**
 
@@ -127,7 +127,7 @@ This helps but still doesn't address the 'fuzziness' around the specific functio
 
 Product could clearly be represented as an open system with an output (Customer outcomes), comprising elements, interconnections, flows, feedback loops, leverage points etc.
 
-Putting it together as a system of interconnected 'black boxes' such as Engineering, Business or even a level down toward a more gears-like (deterministically interconnected) understanding comprising Architecture, Research, Analytics etc. gets us so far but of course specifying excactly how these drive each other and which 'black box' they sit in, is where the complexity above begins necessitating a loose enough description or concept of Product that we could easily find ourselves at the beginning of this piece.
+Putting it together as a system of interconnected 'black boxes' such as Engineering, Business or even a level down toward a more gears-like (deterministically interconnected) understanding comprising Architecture, Research, Analytics etc. gets us so far but of course specifying exactly how these drive each other and which 'black box' they sit in, is where the complexity above begins necessitating a loose enough description or concept of Product that we could easily find ourselves at the beginning of this piece.
 
 A systems view in increasing resolution (verbosity you say?) might be:
 
@@ -139,9 +139,9 @@ A systems view in increasing resolution (verbosity you say?) might be:
 
 _(The irony is not lost on me that we can create a similar vague usage/challenge-response for what 'value' means but one rabbit hole at a time...)_
 
-This vierw contains many but not all of the (imho) important enough concepts. It can however also lead to discussions about wha constitutes value, what and how the trade-offs are plus how they are prioritised.
+This view contains many but not all of the (imho) important enough concepts. It can however also lead to discussions about wha constitutes value, what and how the trade-offs are plus how they are prioritised.
 
-Before moving on it is worth mentioning that is an interesting development abouit there being two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
+Before moving on it is worth mentioning that is an interesting development about there being two forms of Product Management  – for two very different situations: [feature teams vs product teams](http://www.svpg.com/product-vs-feature-team).
 
 Very useful in so far as Product team > Feature team > Delivery team but we seem to still be in a world of defining functions or at least functional approaches.
 
@@ -212,7 +212,7 @@ Picking just four of the key ideas in the table to expand thematically:
 
     Working with outcomes rather than outputs - each object is identified first. This means we can make decisions about reusable low-level utilities then decide how these will be put together to create a high-level construct.
 
-    One way of thinking about this is the possiblity for end to end delivery of pieces of customer value. Ideally this owned by one cross-functional team but is often impossible due to the top down construct.
+    One way of thinking about this is the possibility for end to end delivery of pieces of customer value. Ideally this owned by one cross-functional team but is often impossible due to the top down construct.
 
 3. Real world vs Unreal world
 
@@ -238,11 +238,11 @@ However we would be better off looking to understand where procedural patterns h
 
 So, to deliver winning products - create better customer outcomes by 
 
-- modelling the real world problem space, 
+- modelling the real world problem space
 
-- thinking objects, methods and data rather than functions 
+- thinking objects, methods and data rather than functions
 
-- structure, execute and measure accordingly 
+- structure, execute and measure accordingly
 
 Most importantly notice switches from one building pattern to the other.
 

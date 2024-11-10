@@ -7,31 +7,30 @@ tags: Earning Payments Product
   
 ## tl:dr
 
-Consumer impact is great and great
-
-Payments is icebergs (we see the B2C)
-
-How much has changed really?
-
-
+1. Explicit: Mobile banking has changed everything for customers and consumption.
+2. Implicit: Payments and Processing are mostly hidden.
+3. Tacit: Mobile banking != payments but there have been changes
+4. Is the sea of payments about speed or convenience?
 
 **_Intro and Warning_:**
 
 Been grinding on a work project which might reappear elsewhere here once the scars have healed sufficiently. Have the usual backlog of unfinished observations, explorations and ruminations for interesting adjacent areas but wanted to get this out as first off the pile.
 
-The culmination of a few conversations, presentations and notes which overlapped.
+This is the culmination of a few conversations, presentations and notes which overlapped.
 
 In no particular order:
 
-Friends/Family: "I just tap or use Apple/Google/Samsung Pay for everything now - Payments is so simple" 
+- Friends/Family: "I just tap or use Apple/Google/Samsung Pay for everything now - Payments is so simple" 
 
-Colleague: "I run my business out my phone/tablet - never been into a branch"
+- Colleague: "I run my business out my phone/tablet - never been into a branch"
 
-Colleague: "Hey, you do Product in Banking and Payments - could you give a quick overview to my team about payments, mobile banking and all that..."
+- Colleague: "Hey, you do Product in Banking and Payments - could you give a quick overview to my team about payments, mobile banking and all that..."
+
+_(For full disclosure, I have been involved with Payments in various forms for over 12 years at National Payment Providers, banks, startups and card rail networks. I have experience both in the Business to Consumer (B2C) and Business to Business (B2B) arenas.)_
 
 So how did that turn out?
 
-_(For full disclosure, I have been involved with Payments in various forms for over 12 years at National Payment Providers, banks, startups and card rail networks. I have experience both in the Business to Consumer (B2C) and Business to Business (B2B) arenas.)_
+
 
 Now the warning... When you start explaining 'Payments' in terms of the processing behind even a 'simple' credit or debit card transaction to most people, the last vision many report before the coma hit was of an iceberg. The 10% seen is the swiping/tapping a card/phone or entering card details, then some bank stuff, then the approval (usually a couple of seconds) and I can have the thing. 90% is dark and murky and really only matters if you crash into it. 
 
@@ -39,10 +38,17 @@ Now the warning... When you start explaining 'Payments' in terms of the processi
 
 ![](https://kevanchristmas.github.io/public/assets/Payment_coma.png)
 
-Yes, Mobile payments (cashless/cardless) **have** changed _everything_ - speed, convenience, service integration and customer expectations/behaviour. 
+Now for the good news - mobile banking has revolutionised payments and this is what an AI image [generator](https://www.craiyon.com/) thinks that looks like:
+
+![](https://kevanchristmas.github.io/public/assets/Craiyon_How_Mobile_Payments_have_changed_everything.jpg)
+
+and no, I don't really understand what's going on.
+
+But, yes, mobile payments (cashless/cardless) **have** changed _everything_ - speed, convenience, service integration and customer expectations/behaviour. 
 
 Nothing about the following has remained the same for anyone who has ever seen a cheque-book, mag-stripe card or feature phone (well maybe not the last one...)
-- Processes -  retail shopping, ticketing/public transportation, Ordering/food & beverages
+
+- Processes - retail shopping, ticketing/public transportation, Ordering/food & beverages
 - Peer to Peer payments - sending/ sharing money (including overseas)
 - Small and Micro Businesses with their own Point of Sale on a phone/tablet
 - Notifications, controls, instant access to balances and of course doing it all remotely/online 

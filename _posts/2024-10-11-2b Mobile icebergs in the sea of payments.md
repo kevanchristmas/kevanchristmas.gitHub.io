@@ -7,8 +7,8 @@ tags: Earning Payments Product
   
 ## tl:dr
 
-1. Explicit: Mobile banking has changed everything for customers and consumption.
-2. Implicit: Payments and Processing are mostly hidden.
+1. Implicit: Payments and Processing are mostly hidden.
+2. Explicit: Mobile banking has changed everything for customers and consumption.
 3. Tacit: Mobile banking != payments but there have been changes
 4. Is the sea of payments about speed or convenience?
 
@@ -30,8 +30,6 @@ _(For full disclosure, I have been involved with Payments in various forms for o
 
 So how did that turn out?
 
-
-
 Now the warning... When you start explaining 'Payments' in terms of the processing behind even a 'simple' credit or debit card transaction to most people, the last vision many report before the coma hit was of an iceberg. The 10% seen is the swiping/tapping a card/phone or entering card details, then some bank stuff, then the approval (usually a couple of seconds) and I can have the thing. 90% is dark and murky and really only matters if you crash into it. 
 
 (If you want to try this fun game in a safe and well padded space you can walk through the below diagram - explaining each of the actors and steps if you want full tonic immobility).
@@ -42,7 +40,7 @@ Now for the good news - mobile banking has revolutionised payments and this is w
 
 ![](https://kevanchristmas.github.io/public/assets/Craiyon_How_Mobile_Payments_have_changed_everything.jpg)
 
-and no, I don't really understand what's going on.
+and no, I don't really understand what's going on - its the latest technology and that's got to be better, right?
 
 But, yes, mobile payments (cashless/cardless) **have** changed _everything_ - speed, convenience, service integration and customer expectations/behaviour. 
 
@@ -51,47 +49,28 @@ Nothing about the following has remained the same for anyone who has ever seen a
 - Processes - retail shopping, ticketing/public transportation, Ordering/food & beverages
 - Peer to Peer payments - sending/ sharing money (including overseas)
 - Small and Micro Businesses with their own Point of Sale on a phone/tablet
-- Notifications, controls, instant access to balances and of course doing it all remotely/online 
+- Notifications, controls, instant access to balances and of course doing it all remotely/online.
 
-Obviously this is from a customer point of view but bearing in mind the iceberg above, what has actually changed, as it were - below the water?
+The transition to mobile as the primary platform for retail customers (B2C) happened several years ago, making mobile banking a fundamental aspect of retail banking services. It’s reasonable to say that business banking customers (B2C) now also expect at least a basic level of mobile functionality.
 
-Sure the iceberg is quite a lot faster than it used to be, it has some new pieces - largely to do with security (think biometrics, PIN Numbers etc.) real-time fraud detection built in plus some new faces (think QR codes, Digital wallets, switching between apps etc.) but the steps/flow needed before altering some digital balances remains largely unchanged.
+The key driver of this shift has been the influence of digital-only challenger banks like Monzo and Revolut, which introduced business banking products that pushed traditional high-street banks to adapt and improve their own offerings. As mobile functionality continues to improve, this naturally fosters greater mobile adoption, reshaping users' expectations for managing business finances.
 
-
-
-
-
-Rather unsatisfactorily, the answer is not much really. There are new 
-
-
-
-
-
-Conclusion 
-
-So here's the point. The world of mobile 'banking' around a payment offers a comprehensive, secure and flexible management tool 
-
-- "technology is never used to save time. It’s used to speed up production and consumption in order to expand the system" or put more simply: "tech doesn't make our lives easier it makes them faster"
-
-There are all sorts of payments, and what's actually moving around anyway?
-
-The 'sea' of payments is ever changing and evolving but it's still full of icebergs...
-
-
-I don't completely follow the path he lays out but 
-
-In both of these cases the nexus seems to be brett scott https://www.asomo.co/ which although geared more toward monetary theory and power relations 
-
-
-
-notes 
-
-https://www.fintechfutures.com/2024/10/tide-acquires-sme-payroll-fintech-onfolk/ with the aim of integrating their complete accounting, payroll, and pension system into Tide’s business banking app.
-
-Another dimension to the impact of  mobile banking trend goes beyond customer preference alone. The key driver of this shift has been the influence of digital-only challenger banks like Monzo and Revolut, which introduced business banking products that pushed traditional high-street banks to adapt and improve their own offerings. As mobile functionality continues to improve, this naturally fosters greater mobile adoption, reshaping users' expectations for managing business finances.
-
-The transition to mobile as the primary platform for retail customers happened several years ago, making mobile banking a fundamental aspect of retail banking services. It’s reasonable to say that business banking customers now also expect at least a basic level of mobile functionality.
+For example, recently [Tide acquired Onfolk](https://www.fintechfutures.com/2024/10/tide-acquires-sme-payroll-fintech-onfolk/) with the aim of integrating their complete accounting, payroll, and pension system into Tide’s business banking app.
 
 Obviously, the size and turnover of the enterprise is the main driver - from a project I worked on, roughly 50% of <£50,000 turnover businesses made use of the  mobile banking channel (not all functions), dropping to 30% for larger companies. However, the majority of total transactions are still done via desktop - the desktop portal is not going away any time soon. But, mobile apps are being used for other functionalities. This would include activities such as viewing statements, amending business details, and uploading receipts for expenses.
 
 Functions such as managing sales, managing cards, creating virtual cards, setting limits etc. are all things which are also now expected across the board. The goal is of course, channel parity - meaning that all services are available based on customer preference to suit businesses irrespective of size.
+
+The changes will keep coming.
+
+Obviously this is all from a customer perspective, but bearing in mind the iceberg above, what has actually changed, as it were - below the water?
+
+Sure the iceberg is quite a lot faster than it used to be, it has some new pieces - largely to do with security (think biometrics, PIN Numbers etc.) real-time fraud detection built in plus some new faces (think QR codes, Digital wallets, switching between apps etc.) but the steps/flow needed before altering some digital balances held on the relevant systems, remains largely unchanged.
+
+So here's the point. The world of mobile 'banking' around a payment now offers a comprehensive, secure and flexible management tool but that isn't the same as the payment which needs to go through.
+
+There is a sea of payments anyway - card to card, card to account, account to account, crypto and even deferred payment but the fundamental model remains despite what the consumer sees. Viewed this way a payment is a flow of moving value (money or it's digital equivalent) from one store to another and with a little variation, the steps and actors involved will remain unchanged in the universality of the concept.
+
+This leads to a final thought and loops back to what has actually been achieved and perhaps the incentives behind it.  At this stage I'm veering dangerously toward monetary theory and power relations (which certainly needs more discussion). Yes, giving more control and information to the customer is a fundamental good, more ways to pay and receive essentially also, but what is actually going on as we shift to the methods which allow this? Certainly the underlying model/s and actors won't change but then neither will most people's understanding of what lies beneath just like with icebergs.
+
+If you wish, with the above veering, to go down the rabbit hole (which path even I can't follow completely) I would recommend [Brett Scott](https://www.asomo.co/) for: ["Paymentspotting - Nine steps towards seeing money in 3D"](https://www.asomo.co/p/paymentspotting) or even ["Tech doesn't make our lives easier. It makes them faster."](https://www.asomo.co/p/tech-doesnt-make-our-lives-easier). It's quite a different view but then (bonus [xkcd](https://www.xkcd.com/2950/) reference) maybe we shouldn't be attaching hydrogen filled scout airships to our unsinkable ocean liners?

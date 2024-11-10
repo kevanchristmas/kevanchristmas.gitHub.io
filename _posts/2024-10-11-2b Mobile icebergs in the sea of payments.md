@@ -1,15 +1,10 @@
 ---
-
 layout: post
-
-title: Mobile icebergs and less plastic in the sea of Payments
-
+title: Mobile icebergs in the sea of payments
 tags: Earning Payments Product
-
 ---
 
   
-
 ## tl:dr
 
 Consumer impact is great and great

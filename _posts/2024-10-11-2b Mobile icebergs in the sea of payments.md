@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mobile icebergs in the sea of payments
-tags: Earning Payments Product
+tags: Banking_FS Payments Product
 ---
 
   
@@ -30,6 +30,8 @@ _(For full disclosure, I have been involved with Payments in various forms for o
 
 So how did that turn out?
 
+## 1. Implicit: Hidden depths
+
 Now the warning... When you start explaining 'Payments' in terms of the processing behind even a 'simple' credit or debit card transaction to most people, the last vision many report before the coma hit was of an iceberg. The 10% seen is the swiping/tapping a card/phone or entering card details, then some bank stuff, then the approval (usually a couple of seconds) and I can have the thing. 90% is dark and murky and really only matters if you crash into it. 
 
 (If you want to try this fun game in a safe and well padded space you can walk through the below diagram - explaining each of the actors and steps if you want full tonic immobility).
@@ -43,6 +45,8 @@ Now for the good news - mobile banking has revolutionised payments and this is w
 and no, I don't really understand what's going on - its the latest technology and that's got to be better, right?
 
 But, yes, mobile payments (cashless/cardless) **have** changed _everything_ - speed, convenience, service integration and customer expectations/behaviour. 
+
+## 2. Explicit: All change
 
 Nothing about the following has remained the same for anyone who has ever seen a cheque-book, mag-stripe card or feature phone (well maybe not the last one...)
 
@@ -65,11 +69,16 @@ The changes will keep coming.
 
 Obviously this is all from a customer perspective, but bearing in mind the iceberg above, what has actually changed, as it were - below the water?
 
+## 3. Tacit: Mobile Banking
+
 Sure the iceberg is quite a lot faster than it used to be, it has some new pieces - largely to do with security (think biometrics, PIN Numbers etc.) real-time fraud detection built in plus some new faces (think QR codes, Digital wallets, switching between apps etc.) but the steps/flow needed before altering some digital balances held on the relevant systems, remains largely unchanged.
 
 So here's the point. The world of mobile 'banking' around a payment now offers a comprehensive, secure and flexible management tool but that isn't the same as the payment which needs to go through.
 
 There is a sea of payments anyway - card to card, card to account, account to account, crypto and even deferred payment but the fundamental model remains despite what the consumer sees. Viewed this way a payment is a flow of moving value (money or it's digital equivalent) from one store to another and with a little variation, the steps and actors involved will remain unchanged in the universality of the concept.
+
+
+## 4. Speed or Convenience?
 
 This leads to a final thought and loops back to what has actually been achieved and perhaps the incentives behind it.  At this stage I'm veering dangerously toward monetary theory and power relations (which certainly needs more discussion). Financial inclusion and protection are unquestionably net positive. Yes, giving more control and information to the customer is a fundamental good, more ways to pay and receive essentially also, but what is actually going on as we shift to the methods which allow this? Certainly the underlying model/s and actors won't change but then neither will most people's understanding of what lies beneath just like with icebergs.
 

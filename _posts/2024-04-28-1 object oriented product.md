@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Object Oriented Product
-tags: Earning Growing Product
+tags: Product
 ---
 
 ## tl:dr

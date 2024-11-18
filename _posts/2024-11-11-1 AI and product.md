@@ -20,13 +20,13 @@ tags: AI_Data Product
 
 The second item off the backlog (now so overloaded I should probably call it a hernia log). Having already re-organised my under-stair cupboard full of [Product](https://kevanchristmas.github.io/2024/04/28/1-object-oriented-product/), I thought I should do the same with regards to AI and it's quite long
 
-(Epistemic status : I've done some courses and company training (my company works with multiple vendors including OpenAI - although I still tithe $20/month for a personal use of Skynet to feed it the products of my wetware) We recently built a [GenAI agent](https://www.capco.com/intelligence/capco-intelligence/accelerating-requirements-definition-with-genai) to _augment_ Business Analysts by producing requirements from any form of project documentation. We'll probably harvest their meatsacks subsequently... )
+(Epistemic status : I've done some courses and company training (my company works with multiple vendors including OpenAI - although I still tithe $20/month for a personal use of Skynet to feed it the products of my wetware). We recently built a [GenAI agent](https://www.capco.com/intelligence/capco-intelligence/accelerating-requirements-definition-with-genai) to _augment_ Business Analysts by producing requirements from any form of project documentation. We'll probably harvest their meatsacks subsequently... )
 
 So, similar to [Mobile Payments](https://kevanchristmas.github.io/2024/10/11/2b-Mobile-icebergs-in-the-sea-of-payments/) AI **is** going to change everything and that includes Product.
 
 ## 1. AI-AI-AI-O Along the Gartner Hype we go
 
-Why does any of this matter? Because in the way in which the ability to view online coffee machines, join bulletin boards, Gopher content and send exciting Hotmails to your few similarly over excited peers gave no-one any premonition of _anti_ -Social Media, Amazon, Netflix, Spotify or Hackers controlling your fridge - the current view of AI as Google on Steroids or 'write the boring parts/fill in the gaps'/help with some ideas, gives us no idea what it is going to change. 
+Why does any of this matter? Because in the way in which the ability to view online coffee machines, join bulletin boards, Gopher content and send exciting Hotmails to your few similarly over excited peers gave no-one any premonition of _anti_ -Social Media, Amazon, Netflix, Spotify or Hackers controlling your fridge - the current view of AI as Google on Steroids or 'write the boring parts/fill in the gaps'/help with some ideas, gives us no idea what it is going to change.
 
 ![](https://kevanchristmas.github.io/public/assets/AI.jpg)
 
@@ -39,9 +39,11 @@ Less floridly, in the words of Steve Jobs:
 
 Not going to happen very often for reasons way outside of these thoughts — not least because I have become somewhat allergic to conversations which contain such a phrase — but to quote Michel Foucault:
 
-> “People know what they do; frequently they know why they do what they do; but what they don't know is what what they do does._(Madness and Civilization: A History of Insanity in the Age of Reason)_
+> “People know what they do; frequently they know why they do what they do; but what they don't know is what what they do does. _(Madness and Civilization: A History of Insanity in the Age of Reason)_
 
-To begin then, what?
+To begin then, what? 
+
+(_ABC of AI follows feel free to [(skip)](#skip_abc)_)
 
 AI refers to the development of computer systems and algorithms that can perform tasks typically requiring human intelligence. 
 
@@ -78,7 +80,8 @@ How the end result is achieved and thus a bit fuzzy/overlapping:
 
 From all this we can see that a particular usage eg Chat GPT fits into several categories within any taxonomy - Narrow, Limited Memory (outside of a session), uses Machine Learning and Natural Language Processing.
 
-About this [singularity](https://en.wikipedia.org/wiki/Technological_singularity) then...?
+<a id="skip_abc"></a>
+#### About this [singularity](https://en.wikipedia.org/wiki/Technological_singularity) then...?
 
 (For anyone blessedly unburdened by this idea — a bunch of luminaries have suggested there comes a point at which technological growth becomes uncontrollable and irreversible resulting in unforeseeable consequences for human civilisation, including IJ Good, John von Neumann, Alan Turing, Stanislaw Ulam, Vernor Vinge and Ray Kurzweil) 
 
@@ -94,13 +97,13 @@ This ranges from live issues in the discriminatory present: eg estimating if a c
 
 But, before we start building a time-machine to go back and convince various people in San Francisco to pursue alternative careers, where are we and how is it going?
 
-A personal perspective on AI tries to understand it from simple first principles. At this stage (ie Pre AGI and pre Super Intelligence) it is first and foremost a **tool**. That's ignoring the issues (for now) of whether the tool can understand what I want to do, understand the problem, understand how to help me either make a decision or execute the solution for me. We can make the tool super efficient and more useful in lots of specific ways but these may deviate from it's overall utility.
+A definite tangent line to the curve but for a personal perspective on AI I try to understand it from simple first principles. At this stage (ie Pre AGI and pre Super Intelligence) it is first and foremost a **tool**. That's ignoring the issues (for now) of whether the tool can understand what I want to do, understand the problem, understand how to help me either make a decision or execute the solution for me. We can make the tool super efficient and more useful in lots of specific ways but these may deviate from it's overall utility.
 
 In the digital world, Excel (now arguably [Turing Complete](https://www.techrepublic.com/article/microsoft-turning-excel-into-a-turing-complete-programming-language/)) can be also be used for: [Programming, Art, Photos and Animations, Games](https://techcommunity.microsoft.com/blog/excelblog/unusual-uses-of-excel/3576867) as well of course to terrify/suck the life out of any meeting. That's just an example of people trying to see _if_ you can push the uses of a tool outside of it's main purpose.
 
 However, there was an ongoing adage that went along the lines of:
 
- "Why are the shafts of screwdrivers still made to be so thick and strong? Because otherwise people wouldn't be able to open tins of paint with them!". 
+ "Why are the shafts of screwdrivers still made to be so thick and strong? Because otherwise people wouldn't be able to open tins of paint with them!".
 
 Aside from pointing out that it's necessary to really understand what customers want from/use your product for, it hints at the limitations of maximising single dimensions of performance. I haven't tried it but wouldn't be keen to attempt opening a tin of paint with the flat-head bit in my cordless screwdriver just yet.
 
@@ -120,7 +123,7 @@ Here's one fron NPR : [10 Reasons why AI may be overrated](https://www.npr.org/s
 
 - **Investor Skepticism and Slow Adoption Trajectory**: Despite high usage among knowledge workers and substantial investments, the broader business adoption of AI is slow, with investor skepticism reflected in AI-centric stock indexes not outperforming the market, indicating a gradual adoption curve similar to other technological innovations.
 
-From current professional experience and discussions with colleagues I would add that there's a danger Financial Institutions may repeat their usual patterns with AI - treating it as a trendy solution in search of an actual problem. They recognize AI as the next big thing and having secured large budgets and Empires, are massively compensating experts, who then feel compelled to validate their roles. Despite lessons available from agile methodologies, they could continue to approach AI development with outdated, waterfall-style project management. Furthermore, there's no significant advantage to be gained since peers are adopting AI in similarly awkward manners, neutralizing any potential competitive edge.
+From current professional experience and discussions with colleagues I would add that there's a danger Financial Institutions may repeat their usual patterns with AI - treating it as a trendy solution in search of an actual problem. They recognize AI as the next big thing and having secured large budgets and Empires, are massively compensating experts, who then feel compelled to validate their roles. Despite lessons available from agile methodologies, they could continue to approach AI development with outdated, waterfall-style project management. Furthermore, there's little advantage to be gained since peers are adopting AI in similarly awkward manners, neutralizing any potential competitive edge.
 
 ## 3. I, for one, welcome our new robot Product Overlords
 For some the revolution is underway: [Product Management is Dead (or Will Be Soon)](https://www.youtube.com/watch?v=93fCvFkY1Lg) by [Claire Vo](https://www.linkedin.com/in/clairevo/) (LaunchDarkly)

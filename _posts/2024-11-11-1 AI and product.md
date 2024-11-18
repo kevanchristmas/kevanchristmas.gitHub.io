@@ -158,7 +158,7 @@ d. **Team Dynamics**:
 - Explore more topologies
 - The culture of “no lanes” is encouraged, where team members tackle various tasks irrespective of their designated roles.
 - Teams will need to adapt to this shift without being intimidated by the collapse of traditional job boundaries.
-- 
+
 e. **Preparing for Future Challenges**:
 - Product leaders need to adapt to managing diverse teams with shared skills and work toward building AI-powered teams rather than relying solely on traditional structures.
 - Fewer PM's will be needed - - AI will consolidate previously distinct roles, leading to a new model where one person, with the aid of AI, can manage design, engineering, and product functions—creating an “AI-powered triple threat.”
@@ -187,7 +187,9 @@ A couple of the above points raise some genuinely transformational thoughts:
 - **New dimensions in market dynamics and competitive strategy**:  Existing theories rely on relatively stable product offerings and well-defined market segments. Markets may become more fluid, with AI-driven products continuously redefining their own market niches. Product managers would then need to understand not only their product and customers but also the underlying AI technologies that drive continuous adaptation.
 - **Navigating the "Idea Maze"**: AI assists in exploring multiple design possibilities through what is described as an "idea maze", which involves navigating through various decision paths, thereby potentially increasing the chances of achieving successful outcomes.
 
-To build on the last thought (borrowing heavily from discussions with _il miglior fabbro_ at [intuitably](https://intuitably.com/)) and return to the first principles (ie Does AI understand the problem or does the Product Manager, and if so does AI make or inform a decision? )it is worth remembering that arguably one of the key parts of Product management (Product/Market fit) is not a binary. It is instead trying to move your product through the 'space' of all potential products to optimise the vector quantity of 'fitness'. The Product Manager's role is to infer the topology of this product-space based on available data so that design/build people can move the product in the right direction. Data about this space is often poor - undersampled, contradictory and phrased in deceptive language ("What did you want to use that screwdriver for again?") A lot of inference/context/creativity is also required to construct an accurate map. Building and using AI in this way could be... interesting.
+To build on the last thought (borrowing heavily from discussions with _il miglior fabbro_ at [intuitably](https://intuitably.com/)) and return to the first principles (ie Does AI understand the problem or does the Product Manager, and if so does AI make or inform a decision?) it is worth remembering that arguably one of the key parts of Product management (Product/Market fit) is not a binary. 
+
+It is instead trying to move your product through the 'space' of all potential products to optimise the vector quantity of 'fitness'. The Product Manager's role is to infer the topology of this product-space based on available data so that design/build people can move the product in the right direction. Data about this space is often poor - undersampled, contradictory and phrased in deceptive language ("What did you want to use that screwdriver for again?") A lot of inference/context/creativity is also required to construct an accurate map. Building and using AI in this way could be... interesting.
 
 Somewhere between the [butter robot](https://youtu.be/X7HmltUWXgs) and the words from one of the [best films of all time](https://www.youtube.com/watch?v=ARJ8cAGm6JE) that's why we can't open the product bay doors just yet... I think you know what the problem is just as well as I do... This mission is too important for me to allow you to jeopardize it.  
 

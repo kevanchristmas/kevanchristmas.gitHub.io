@@ -60,6 +60,7 @@ The level at which it can function
 **2. Functionality**
 
 What it can do
+
 - Reactive - can react to different situations but do not have memory-based functions i.e. cannot use past experience to inform future decisions. Perhaps surprisingly includes IBM's Deep Blue chess program which famously [beat World Chess Champion Gary Kasparov in 1996/97](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov). (Surprising to those who don't play chess a lot or consider that it can be 'brute-forced' ie each successive move can be the best move based on the sum of all best possible scored moves).
 - Limited Memory - can use past experiences to inform future decisions - most current AI applications from Tesla autonomous driving to Siri/Alexa/Assistants fall under this category.
 - Theory of Mind - (_Uh Oh_) future AI that could understand emotions, people and other AIs to then adjust its behaviour.
@@ -78,7 +79,7 @@ How the end result is achieved and thus a bit fuzzy/overlapping:
 - Robotics - AI that is embodied in physical units which can perform tasks or movement. (Can use subsets of the above)
 - Computer vision - AI that can interpret the visual world using cameras, videos etc. (Uses different subsets of the learning models)
 
-From all this we can see that a particular usage eg Chat GPT fits into several categories within any taxonomy - Narrow, Limited Memory (outside of a session), uses Machine Learning and Natural Language Processing.
+From all this we can see that a particular usage eg Chat GPT fits into several categories within any taxonomy - Narrow, Limited Memory (outside of a session), uses Machine Learning and Natural Language Processing. For a much more in-depth understanding of GPT - what is going on and why there's no better source than [Gwern](https://gwern.net/scaling-hypothesis).
 
 <a id="skip_abc"></a>
 #### About this [singularity](https://en.wikipedia.org/wiki/Technological_singularity) then...?

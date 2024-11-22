@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is kevanchristmas.github.io for?
-tags: Living TheSystem
+tags: Living The_system
 ---
 
 ## tl;dr

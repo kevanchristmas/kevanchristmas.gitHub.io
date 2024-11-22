@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Standing on one LEG and zettelkasten
-tags: Living TheSystem Zettelkasten
+tags: Living The_system Zettelkasten
 ---
 
 ##  tl;dr

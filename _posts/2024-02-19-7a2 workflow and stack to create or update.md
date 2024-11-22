@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workflow and stack to create or update this site
-tags: Living TheSystem
+tags: Living The_system
 ---
 
 ##  tl;dr

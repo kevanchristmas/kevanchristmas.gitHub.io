@@ -18,7 +18,7 @@ tags: AI_Data Product
 
 **_Intro and Warning_:**
 
-The second item off the backlog (now so overloaded I should probably call it a hernia log). Having already re-organised my under-stair cupboard full of [Product](https://kevanchristmas.github.io/2024/04/28/1-object-oriented-product/), I thought I should do the same with regards to AI and it's quite long
+The second item off the backlog (now so overloaded I should probably call it a hernialog). Having already re-organised my under-stair cupboard full of [Product](https://kevanchristmas.github.io/2024/04/28/1-object-oriented-product/), I thought I should do the same with regards to AI and it's quite long
 
 (Epistemic status : I've done some courses and company training (my company works with multiple vendors including OpenAI - although I still tithe $20/month for a personal use of Skynet to feed it the products of my wetware). We recently built a [GenAI agent](https://www.capco.com/intelligence/capco-intelligence/accelerating-requirements-definition-with-genai) to _augment_ Business Analysts by producing requirements from any form of project documentation. We'll probably harvest their meatsacks subsequently... )
 

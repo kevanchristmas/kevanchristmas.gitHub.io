@@ -45,7 +45,7 @@ Artists employ a variety of technologies to bridge data, math, and art. I dabble
 
 [D3.js](https://d3js.org/) for interactive and dynamic art pieces,provides a powerful JavaScript library that enables data-driven transformations often used for sophisticated artistic visualizations.
 
-However, Python is essential for data manipulation (using libraries like NumPy) and visualization (via Matplotlib) and as a gateway drug, I came across [Samila](https://www.samila.site/) -  most of my exploring has been there and I'm seeing how much I can stretch it.  
+However, Python is essential for data manipulation (using libraries like NumPy) and visualization (via Matplotlib) and as a gateway drug, I came across [Samila](https://www.samila.site/) which generated the image above -  most of my exploring has been there and I'm seeing how much I can stretch it.  
 
 ### The Transformer in the room...
 
